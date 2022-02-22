@@ -41,7 +41,9 @@ params:
   utterancesLabel: "" # optional
   social:
   - id: github
-    name: cfergeau
+    name: cfergeau/blog-russia
+  - id: email
+    name: misc+russia@fergeau.eu
 #  - id: hugo
 #    url: "https://gohugo.io/"
 #    icon: "hugo"
